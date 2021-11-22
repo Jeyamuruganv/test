@@ -24,7 +24,6 @@ public class GoogleStep extends AutomationBase {
     public void launch_the_browser() {
         //System.setProperty("webdriver.chrome.driver","C://drivers//chromedriver.exe");
         //driver = new ChromeDriver();
-        //driver = new ChromeDriver();
     }
 
     @When("open google page")
